@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1674221426 source:c:\meu algoritmos\credit\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

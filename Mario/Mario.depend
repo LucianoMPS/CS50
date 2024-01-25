@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1674133758 source:c:\meu algoritmos\mario\main.c
+	<stdio.h>
+	<stdlib.h>
+

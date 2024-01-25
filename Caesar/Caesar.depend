@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1675082162 source:c:\meu algoritmos\caesar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
